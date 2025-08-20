@@ -23,6 +23,8 @@ Este repositório foi criado para centralizar meus projetos práticos em **Excel
 - **Insights:** Identificação de regiões com maior margem de lucro e gargalos de distribuição.  
 
 ### 🔹 [Controle Financeiro (Excel)](link_aqui)
+- **Objetivo:** Criar uma ferramenta de simulação de investimentos em fundos imobiliários.
+- **Destaques:** 
 - **Objetivo:** Gerenciar receitas, despesas e fluxo de caixa mensal.  
 - **Destaques:** Automação com VBA e relatórios em tabelas dinâmicas.  
 
