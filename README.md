@@ -50,3 +50,22 @@ Sou analista com foco em **BI, CRM e IA aplicada a negócios**, apaixonada por t
 ---
 
 ## 📂 Estrutura do Repositório
+
+Excel-PowerBI-Looker-Studio/
+├── 📄 README.md   ✅ aqui!
+├── 📁 Excel/
+│   ├── Dashboard_Financeiro.xlsx
+│   ├── Automacao_RH.xlsm
+│   └── ...
+│
+├── 📁 PowerBI/
+│   ├── Vendas_Regionais.pbix
+│   ├── Churn_Clientes.pbix
+│   └── ...
+│
+├── 📁 LookerStudio/
+│   ├── link_relatorio_vendas.md
+│   ├── link_marketing_analytics.md
+│   └── ...
+│
+
