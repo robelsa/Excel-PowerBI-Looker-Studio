@@ -22,10 +22,17 @@ Este repositório foi criado para centralizar meus projetos práticos em **Excel
 - **Objetivo:** Monitorar desempenho de vendas por região, produto e canal.  
 - **Insights:** Identificação de regiões com maior margem de lucro e gargalos de distribuição.  
 
-### 🔹 [Controle Financeiro (Excel)
-- **Objetivo:** Gerenciar receitas, despesas e fluxo de caixa mensal.
-- **Destaques:**    
-- **Objetivo:** Criar uma ferramenta de simulação de investimentos em fundos imobiliários FII - Projeto 1
+### 🔹 [Investimentos (Excel)
+- **Objetivo:** Criar uma Calculadora de Investimento para oferecer ao usuário uma visão 360º de sua jornada como investidor, desde a definição de quanto poupar até a estratégia de alocação de seus ativos.
+  [Clique aqui]([https://docs.google.com/spreadsheets/d/1nN5bQNY7lEayXGyyIAae88TQDgA-luPtx2pCV8i8GO8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1bvaRVeVuvzwkt52FE6IaW_2isMOSJ4DyjMjcC4kmfEo/edit?usp=sharing)
+- **Destaques:**
+  A ferramenta foi criada para responder perguntas cruciais como:
+**Quanto devo investir?** A planilha sugere um valor de aporte mensal com base no salário e no percentual que o usuário deseja investir.
+**Qual o potencial de crescimento?** A calculadora projeta o patrimônio acumulado e a renda passiva futura em diversos cenários de tempo (2, 5, 10, até 30 anos).
+**Como devo diversificar minha carteira?** Com base no perfil de risco do investidor (Conservador, Moderado ou Agressivo), a ferramenta apresenta modelos de alocação estratégica entre diferentes tipos de Fundos Imobiliários (FIIs).
+**Qual o meu progresso?** A planilha permite o lançamento de aportes, o controle da evolução do patrimônio e a análise do desempenho da carteira de forma consolidada e visual.
+
+- **Objetivo:** Criar uma ferramenta de simulação de investimentos em fundos imobiliários FII - Projeto 1 (DIO)
   [Clique aqui](https://docs.google.com/spreadsheets/d/1nN5bQNY7lEayXGyyIAae88TQDgA-luPtx2pCV8i8GO8/edit?usp=sharing)
 - **Aprendizado em Google Sheets Demonstrados no Projeto**
 
