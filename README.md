@@ -1,4 +1,4 @@
-### 📊 Excel | Power BI | Looker Studio
+### 📊 Excel | Power BI | Looker Studio - Atualizando
 
 Portfólio de projetos em Análise de Dados e Business Intelligence (BI) utilizando as principais ferramentas do mercado.  
 Aqui você encontra dashboards interativos, análises exploratórias e automações que demonstram meu domínio em transformar dados brutos em insights inteligentes.
@@ -25,9 +25,9 @@ Este repositório foi criado para centralizar meus projetos práticos em **Excel
 ### 🔹 [Controle Financeiro (Excel)
 - **Objetivo:** Gerenciar receitas, despesas e fluxo de caixa mensal.
 - **Destaques:**    
-- **Objetivo:** Criar uma ferramenta de simulação de investimentos em fundos imobiliários FII
+- **Objetivo:** Criar uma ferramenta de simulação de investimentos em fundos imobiliários FII - Projeto 1
   [Clique aqui](https://docs.google.com/spreadsheets/d/1nN5bQNY7lEayXGyyIAae88TQDgA-luPtx2pCV8i8GO8/edit?usp=sharing
-- **Destaques de Aprendizado em Google Sheets Demonstrados no Projeto**
+- **Aprendizado em Google Sheets Demonstrados no Projeto**
 
 **1. Estruturação de Dados e Lógica de Negócio**
 Mostra a capacidade de organizar uma solução complexa de forma clara e funcional, separando a planilha em abas com responsabilidades distintas:
@@ -49,7 +49,7 @@ Informações visuais que contam uma história. Os gráficos demonstram:
 2. Evolução de Métricas: O gráfico de "Yield on Cost" transforma um conceito financeiro em uma linha de tendência clara.
 
 **5. Análise de Sensibilidade e Comparação de Cenários**
-A gráfico "Análise de Sensibilidade" mostra uma ferramenta de análise estratégica. Isso demonstra a habilidade de estruturar dados para comparar hipóteses ("E se eu aportar mais?", "E se o rendimento for maior?") e auxiliar na tomada de decisão.  
+OA gráfico "Análise de Sensibilidade" mostra uma ferramenta de análise estratégica. Isso demonstra a habilidade de estruturar dados para comparar hipóteses ("E se eu aportar mais?", "E se o rendimento for maior?") e auxiliar na tomada de decisão.  
 
 ### 🔹 [Marketing Analytics (Looker Studio)](link_aqui)
 - **Objetivo:** Analisar métricas de campanhas digitais (Google Ads + Meta Ads).  
@@ -64,7 +64,7 @@ A gráfico "Análise de Sensibilidade" mostra uma ferramenta de análise estrat�
 
 ---
 👩‍💻 **Sobre Mim**
-Sou analista com foco em **BI, CRM e IA aplicada a negócios**, apaixonada por transformar dados em decisões estratégicas.  
+Sou estudante de análise de dados foco em **BI, CRM e IA aplicada a negócios**, apaixonada por transformar dados em decisões estratégicas.  
 🔗 [LinkedIn](https://linkedin.com/in/robelsa) | [GitHub](https://github.com/robelsa)  
 
 ---
@@ -79,8 +79,8 @@ Sou analista com foco em **BI, CRM e IA aplicada a negócios**, apaixonada por t
 Excel-PowerBI-Looker-Studio/
 ├── 📄 README.md   ✅ aqui!
 ├── 📁 Excel/
-│   ├── Dashboard_Financeiro.xlsx
-│   ├── Automacao_RH.xlsm
+│   ├── Dashboard_Investimento_FundosImobiliariosFII.xlsx
+│   ├── 
 │   └── ...
 │
 ├── 📁 PowerBI/
